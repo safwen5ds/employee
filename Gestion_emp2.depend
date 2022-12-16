@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1669985211 source:c:\users\safwe\desktop\c++ last tp\gestion_emp2\main.cpp
+	<iostream>
+	<string>
+	"employee.h"
+	"list.h"
+	"menu.h"
+
+1669387703 c:\users\safwe\desktop\c++ last tp\gestion_emp2\employee.h
+
+1671206506 c:\users\safwe\desktop\c++ last tp\gestion_emp2\list.h
+	"employee.h"
+
+1669390939 c:\users\safwe\desktop\c++ last tp\gestion_emp2\menu.h
+	"menu.h"
+	"list.h"
+	"employee.h"
+
+1669391439 source:c:\users\safwe\desktop\c++ last tp\gestion_emp2\employee.cpp
+	"employee.h"
+	<iostream>
+	<cstring>
+
+1671205826 source:c:\users\safwe\desktop\c++ last tp\gestion_emp2\list.cpp
+	"list.h"
+	"employee.h"
+	<iostream>
+	<cstring>
+
+1671199096 source:c:\users\safwe\desktop\c++ last tp\gestion_emp2\menu.cpp
+	"menu.h"
+	<iostream>
+	<cstring>
+	"employee.h"
+	"list.h"
+
